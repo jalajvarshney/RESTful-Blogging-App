@@ -14,6 +14,11 @@ npm install express --save
 
 After installing all the requirements, run the [app.js](https://github.com/jalajvarshney/RESTful-Blogging-App/blob/master/app.js) file. 
 
+Open terminal in the home directory and run:-
+
+```
+node app.js
+```
 
 If no errors, then the console will display - "Server Running at port 3000"
 
