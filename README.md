@@ -4,7 +4,7 @@ A blogging application following the REST conventions and providing basic CRUD f
 
 ### Prerequisites
 
-The prerequisites can be found in package.json file. All requirements are node libraries and can be installed as :-
+The prerequisites can be found in [package.json](https://github.com/jalajvarshney/RESTful-Blogging-App/blob/master/package.json) file. All requirements are node libraries and can be installed as :-
 
 ```
 npm install express --save
@@ -15,7 +15,7 @@ npm install express --save
 After installing all the requirements, run the [app.js](https://github.com/jalajvarshney/RESTful-Blogging-App/blob/master/app.js) file. 
 
 
-If no errors, the console will display - "Server Running at port 3000"
+If no errors, then the console will display - "Server Running at port 3000"
 
 ## Viewing the Application
 
